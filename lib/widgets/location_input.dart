@@ -6,7 +6,7 @@ import 'package:location/location.dart';
 import 'package:http/http.dart' as http;
 
 // TODO: comment this out
-const apiKey = '';
+const apiKey = 'AIzaSyBVsjSI1oP0xkRQY4pDy0RQ2vG_6SQQBS0';
 
 class LocationInput extends StatefulWidget {
   final void Function(PlaceLocation) onPickedLocation;
